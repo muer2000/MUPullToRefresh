@@ -1,0 +1,19 @@
+/* 
+  MUPullToRefresh.strings
+  MUPullToRefresh
+
+  Created by Muer on 16/5/5.
+  Copyright © 2016年 Muer. All rights reserved.
+*/
+
+/* Pull to refresh view */
+"Pull to refresh" = "下拉刷新";
+"Release to refresh" = "释放更新";
+"Loading..." = "加载中...";
+"Last Updated: %@" = "最后更新时间: %@";
+"Just now" = "刚刚";
+"%@ mins ago" = "%@分钟前";
+
+/* Infinite scrolling view */
+"More..." = "更多...";
+"The end" = "没有更多数据了！";
